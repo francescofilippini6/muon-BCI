@@ -1,0 +1,67 @@
+Connecting to 192.168.0.21 on port 5553
+Subscribed tags: IO_EVT
+Connection timeout: 300s
+Maximum queue size for incoming data: 2000
+Pipeline and module initialisation took 0.004s (CPU 0.004s).
+DOM_id 1
+height 65
+DOM_id 2
+height 101
+pmt22 [55467339.]
+DOM_id 3
+height 137
+pmt22 [55467449.]
+DOM_id 4
+height 173
+pmt20 [55467580.]
+pmt26 [55467580.]
+DOM_id 5
+height 209
+pmt20 [55467704.]
+pmt26 [55467704.]
+pmt27 [55467705.]
+DOM_id 6
+height 245
+DOM_id 7
+height 281
+pmt22 [55467945.]
+pmt23 [55467944.]
+pmt24 [55467944.]
+pmt25 [55467944.]
+pmt26 [55467944.]
+pmt27 [55467945.]
+pmt28 [55467944.]
+pmt29 [55467945.]
+pmt30 [55467945.]
+pmt18 [55467945.]
+DOM_id 8
+height 317
+pmt21 [55468065.]
+pmt22 [55468066.]
+pmt24 [55468065.]
+pmt25 [55468065.]
+pmt29 [55468066.]
+DOM_id 9
+height 353
+pmt19 [55468191.]
+pmt25 [55468191.]
+DOM_id 10
+height 389
+pmt22 [55468321.]
+DOM_id 11
+height 425
+DOM_id 12
+height 461
+DOM_id 13
+height 497
+DOM_id 14
+height 533
+DOM_id 15
+height 569
+DOM_id 16
+height 605
+DOM_id 17
+height 641
+DOM_id 18
+height 677
+[55467339.0, 55467449.0, 55467580.0, 55467580.0, 55467704.0, 55467704.0, 55467705.0, 55467945.0, 55467944.0, 55467944.0, 55467944.0, 55467944.0, 55467945.0, 55467944.0, 55467945.0, 55467945.0, 55467945.0, 55468065.0, 55468066.0, 55468065.0, 55468065.0, 55468066.0, 55468191.0, 55468191.0, 55468321.0] [65, 101, 137, 173, 209, 245, 281, 317, 353, 389, 425, 461, 497, 533, 569, 605, 641, 677]
